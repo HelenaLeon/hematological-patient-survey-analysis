@@ -42,7 +42,7 @@ This project was part of the **AECOCO initiative** (Aprendiendo Estadística Col
 ---
 
 ### Employment Status, Mobility & Sociofamiliar Impact
-![Employment and Mobility Analysis](02_employment_mobility_sociofamiliar.jpg)
+![Employment and Mobility Analysis](image/02_employment_mobility_sociofamiliar.jpg)
 
 **Key findings:**
 - ~70% report the diagnosis influenced their employment status
@@ -52,7 +52,7 @@ This project was part of the **AECOCO initiative** (Aprendiendo Estadística Col
 ---
 
 ### Body Image, Relationships & Statistical Summary
-![Body Image and Relationships](03_body_image_relationships_stats.jpg)
+![Body Image and Relationships](image/03_body_image_relationships_stats.jpg)
 
 **Key findings:**
 - 77% report changes in intimate/sexual relationships
@@ -62,7 +62,7 @@ This project was part of the **AECOCO initiative** (Aprendiendo Estadística Col
 ---
 
 ### Descriptive Statistics Table
-![Statistics Table](04_statistics_table.jpg)
+![Statistics Table](image/04_statistics_table.jpg)
 
 Full measures of central tendency and dispersion for quantitative variables, segmented by sex.
 
